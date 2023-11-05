@@ -31,3 +31,26 @@ h2{
     margin-bottom: 0;
 
 }
+
+.nleft{
+    
+    height: 300px;
+    background-image: url(../imagenes/lion-309219_640.png) ;
+    background-size: cover; 
+    background-position: center;
+}   
+.servicios article{
+
+    background-color: rgb(42, 81, 165) !important;
+    border: 3px solid black; 
+    text-align: center;
+
+}
+
+.card-img{
+    font-size: 35px;
+}
+.servicios .card-desc{
+    color: #ffffff;
+}
+
